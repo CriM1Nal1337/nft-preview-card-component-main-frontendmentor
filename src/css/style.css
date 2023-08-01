@@ -34,6 +34,7 @@ body{
 
 #eye{
     opacity: 0;
+    transition: o.3s easy-in-out;
 }
 
 #equilibrium:hover>#eye{
